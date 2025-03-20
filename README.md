@@ -1,5 +1,4 @@
-### I'm Franco Turco! 👋
+### I'm Franco! 👋
 
-- 🔭 I’m currently working on QA Automation tests with Python and studiyng Full Stack Development!!!
-- 🌱 I’m currently learning about QA theory!
+- 🌱 I’m currently working on a new Automation project!
 - 📫 How to reach me: www.linkedin.com/in/francoiturco
